@@ -1,5 +1,6 @@
 # MetersReader
 ![Small Picture](6DigitCounter.png)
+
 This is the repository for our electromechanical meters, [6 digit mechanical meter](http://www.sophig.com/110/e-shop/magnetic-counters/6-digits). More info is available at [sophig.com](http://www.spohig.com).
 - [Company Website](http://www.sophig.com)
 - [My Personal Website](http://www.dzacovsky.com)
